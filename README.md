@@ -31,5 +31,5 @@ Para compilar y ejecutar cualquiera de estos ejercicios, necesitas tener instala
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-   cd nombre-del-repo
+   git clone git@github.com:AndresParacare/Exercism-Solution-Syncer.git
+   cd Exercism-Solution-Syncer
